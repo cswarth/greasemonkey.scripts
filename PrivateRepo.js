@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Github Private by Default
 // @namespace    http://github.com/cswarth
-// @version      0.3
+// @version      0.4
 // @description  Make Private Repos the default on github.com
 // @author       Chris Warth
-// @include http://*github.com/*
-// @include https://*github.com/*
+// @include http://*github.com/new
+// @include https://*github.com/new
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @require https://greasyfork.org/scripts/6250-waitforkeyelements/code/waitForKeyElements.js?version=23756
 // @run-at document-start
