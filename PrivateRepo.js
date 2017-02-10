@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Github Private by Default
 // @namespace    http://github.com/cswarth
-// @version      0.4
+// @version      0.5
 // @description  Make Private Repos the default on github.com
 // @author       Chris Warth
+// @include http://*github.com/*/new
+// @include https://*github.com/*/new
 // @include http://*github.com/new
 // @include https://*github.com/new
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
